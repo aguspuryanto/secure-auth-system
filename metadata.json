@@ -1,0 +1,5 @@
+{
+  "name": "Secure Auth System",
+  "description": "Sistem autentikasi modern menggunakan Node.js, Express, Prisma, dan JWT dengan standar keamanan industri.",
+  "requestFramePermissions": []
+}
